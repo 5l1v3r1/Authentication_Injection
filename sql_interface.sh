@@ -31,7 +31,7 @@ then
 
 if [ $Option -eq "1" ]
  then
- ./auth_injection.sh
+ ./sql_interface.sh
  fi
   
 if [ $Option -eq "2" ]
